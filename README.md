@@ -6,11 +6,3 @@ The Google Colab notebooks in this repository can be used to build and populate 
 The database is organized according to the following relational diagram: 
 
 ![Relational_Diagram](Database_Relational_Diagram.jpg)
-
-You can view the DataImporter code in Google Colab at the following link:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samoldh/FIM_database/blob/main/DataImporter.ipynb) 
-
-You can view the FindInputData code in Google Colab at the following link:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samoldh/FIM_database/blob/main/FindInputData.ipynb)   
